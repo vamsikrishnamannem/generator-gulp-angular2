@@ -1,1 +1,23 @@
+# OS
+# ===========
+.DS_Store
+
+# Node and related ecosystem
+# ==========================
+.sass-cache/
 node_modules/
+bower_components/
+.bower-*/
+.idea/
+
+# General
+# =======
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.tmp
+*.bak
+*.swp
